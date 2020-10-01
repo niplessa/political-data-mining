@@ -1,0 +1,11 @@
+Bernie Sanders' tweets analysis:
+
+https://colab.research.google.com/drive/1cDIBuQFiZTOrR79o26CKVbK-oeMpUSor?usp=sharing
+
+media sentiment analysis:
+
+https://colab.research.google.com/drive/1LgR4lpTGoQXFzYHgsClp3L2ZVtmh4O1Y?usp=sharing
+
+users sentiment analysis:
+
+https://colab.research.google.com/drive/1Vs8n0hrayxEz1pkLOFGOKS-TTXDkU4fE?usp=sharing
